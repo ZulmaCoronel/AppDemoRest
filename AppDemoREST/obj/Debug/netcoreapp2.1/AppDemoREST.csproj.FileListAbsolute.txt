@@ -21,3 +21,26 @@ C:\Users\isabe\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\Razor\Views\FicIn
 C:\Users\isabe\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorTargetAssemblyInfo.cs
 C:\Users\isabe\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.Views.pdb
 C:\Users\isabe\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.csproj.CopyComplete
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.deps.json
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.runtimeconfig.json
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.runtimeconfig.dev.json
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.dll
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.pdb
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.Views.dll
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.Views.pdb
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.csprojAssemblyReference.cache
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.csproj.CoreCompileInputs.cache
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorAssemblyInfo.cache
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorAssemblyInfo.cs
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.AssemblyInfoInputs.cache
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.AssemblyInfo.cs
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.TagHelpers.input.cache
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.TagHelpers.output.cache
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorCoreGenerate.cache
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\Razor\Views\FicIndex\Index.g.cshtml.cs
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorTargetAssemblyInfo.cache
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorTargetAssemblyInfo.cs
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.Views.pdb
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.dll
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.pdb
+C:\Users\L_Z0K\Desktop\Nueva carpeta (2)\AppDemoRest\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.csproj.CopyComplete
