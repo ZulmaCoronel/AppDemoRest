@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AppDemoREST.Controllers
 {
-   public class FicIndexController : Controller
+    public class FicIndexController : Controller
     {
         public IActionResult Index()
         {
