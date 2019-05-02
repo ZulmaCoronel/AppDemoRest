@@ -26,8 +26,8 @@ namespace AppDemoREST
         {
             services.AddMvc();
 
-            services.AddDbContext<FicDBContext>(options => 
-                    options.UseSqlServer(Configuration.GetConnectionString("AppWebSrvContext")));
+            services.AddDbContext<FicDBContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("AppEvaWebSrvContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -40,17 +40,17 @@ namespace AppDemoREST
             }
             else
             {
-                app.UseExceptionHandler("/Home/error");
-                //app.UseHsts();
+                app.UseExceptionHandler("/Home/Error");
             }
 
+            // app.UseStaticFiles();
             app.UseHttpsRedirection();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
                     name: "default",
                     template: "{controller=FicIndex}/{action=Index}");
-             });
+            });
         }
     }
 }
